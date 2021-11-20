@@ -2,4 +2,8 @@
   .footer__list-item {
     margin-bottom: 32px;
   }
+
+  .footer__list-item:last-of-type {
+    margin-bottom: 0;
+  }
 }

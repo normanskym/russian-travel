@@ -3,7 +3,6 @@
     display: flex;
     justify-content: space-between;
     max-width: 1184px;
-    max-height: 52px;
     padding-top: 28px;
 }
 
@@ -23,6 +22,5 @@
   .header {
     padding-top: 16px;
     max-width: 288px;
-    max-height: 42px;
   }
 }
